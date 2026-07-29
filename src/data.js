@@ -132,6 +132,22 @@ Mon profil allie rigueur scientifique et approche pratique pour concevoir des ar
     techs: ["Java", "Algorithmes", "Heuristiques"],
     github: "#",
   },
+  {
+  icon: "🛒",
+  tag: "Développement Full-Stack",
+  title: "Plateforme E-commerce pour Électroménager",
+  desc: "Développement d'une plateforme e-commerce de vente d'électroménager, avec un frontend Next.js et un backend FastAPI intégré à Odoo (utilisant PostgreSQL comme base de données). Déployée avec Docker et Nginx.",
+  techs: ["Next.js", "FastAPI", "Python", "Odoo", "PostgreSQL", "Docker", "Nginx"],
+  github: "#",
+},
+{
+  icon: "📁",
+  tag: "Développement Full-Stack",
+  title: "Système de Gestion des Dossiers Clients",
+  desc: "Conception d'une application web de gestion des dossiers et données clients, développée avec un frontend Next.js et un backend FastAPI intégré à Odoo et PostgreSQL. Déployée avec Docker et Nginx.",
+  techs: ["Next.js", "FastAPI", "Python", "Odoo", "PostgreSQL", "Docker", "Nginx"],
+  github: "#",
+},
 ],
 
   education: [
