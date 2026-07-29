@@ -130,6 +130,22 @@ My profile combines scientific rigor and a practical approach to design performa
       techs: ["Java", "Algorithms", "Heuristics"],
       github: "#",
     },
+    {
+      icon: "🛒",
+      tag: "Full-Stack Development",
+      title: "E-commerce Platform for Home Appliances",
+      desc: "Development of an e-commerce platform for selling home appliances, with a Next.js frontend and a FastAPI backend integrated with Odoo (using PostgreSQL as the underlying database). Deployed with Docker and Nginx.",
+      techs: ["Next.js", "FastAPI", "Python", "Odoo", "PostgreSQL", "Docker", "Nginx"],
+      github: "#",
+    },
+    {
+      icon: "📁",
+      tag: "Full-Stack Development",
+      title: "Client File Management System",
+      desc: "Design of a web application for managing client files and records, built with a Next.js frontend and a FastAPI backend integrated with Odoo and PostgreSQL. Deployed using Docker and Nginx.",
+      techs: ["Next.js", "FastAPI", "Python", "Odoo", "PostgreSQL", "Docker", "Nginx"],
+      github: "#",
+    },
   ],
 
   education: [
